@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tb007\Documents\FallingMan\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="C:\Users\tb007\Documents\FallingMan\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_f9c02364d0ce7623bf4d85beb5ad7f931b52085b.jar" />
+    </item>
+
+</items>
